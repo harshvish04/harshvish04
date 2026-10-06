@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 490" width="640" height="490">
+<style>@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:17px}</style>
+<rect width="640" height="490" rx="10" fill="#0d1117"/>
+<path d="M0 10a10 10 0 0 1 10-10h620a10 10 0 0 1 10 10v26H0z" fill="#161b22"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="320.0" y="23" text-anchor="middle" fill="#8b949e" style="font-size:13px">harshvish04@github: ~</text>
+<text x="28" y="78" fill="#39d353" style="opacity:0;animation:in .45s ease-out 0.35s forwards">harshvish04@github</text>
+<text x="28" y="100" fill="#8b949e" style="opacity:0;animation:in .45s ease-out 0.49s forwards">──────────────────</text>
+<text x="28" y="138" style="opacity:0;animation:in .45s ease-out 0.63s forwards"><tspan fill="#58a6ff" font-weight="bold">Now</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Your current role / company</tspan></text>
+<text x="28" y="174" style="opacity:0;animation:in .45s ease-out 0.77s forwards"><tspan fill="#58a6ff" font-weight="bold">Prev</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Previous role / company</tspan></text>
+<text x="28" y="210" style="opacity:0;animation:in .45s ease-out 0.91s forwards"><tspan fill="#58a6ff" font-weight="bold">Stack</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Python · JavaScript · React · Node</tspan></text>
+<text x="28" y="246" style="opacity:0;animation:in .45s ease-out 1.05s forwards"><tspan fill="#58a6ff" font-weight="bold">Highlights</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Something you're proud of</tspan></text>
+<text x="28" y="282" style="opacity:0;animation:in .45s ease-out 1.19s forwards"><tspan fill="#58a6ff" font-weight="bold">Education</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Your degree / college</tspan></text>
+<text x="28" y="318" style="opacity:0;animation:in .45s ease-out 1.33s forwards"><tspan fill="#58a6ff" font-weight="bold">Contact</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">github.com/harshvish04</tspan></text>
+<rect x="28" y="360" width="30" height="14" rx="3" fill="#ff7b72" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="62" y="360" width="30" height="14" rx="3" fill="#ffa657" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="96" y="360" width="30" height="14" rx="3" fill="#e3b341" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="130" y="360" width="30" height="14" rx="3" fill="#39d353" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="164" y="360" width="30" height="14" rx="3" fill="#58a6ff" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="198" y="360" width="30" height="14" rx="3" fill="#d2a8ff" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="232" y="360" width="30" height="14" rx="3" fill="#c9d1d9" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="266" y="360" width="30" height="14" rx="3" fill="#6e7681" style="opacity:0;animation:in .45s ease-out 1.47s forwards"/>
+<rect x="28" y="378" width="30" height="14" rx="3" fill="#ff7b72" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+<rect x="62" y="378" width="30" height="14" rx="3" fill="#ffa657" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+<rect x="96" y="378" width="30" height="14" rx="3" fill="#e3b341" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+<rect x="130" y="378" width="30" height="14" rx="3" fill="#39d353" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+<rect x="164" y="378" width="30" height="14" rx="3" fill="#58a6ff" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+<rect x="198" y="378" width="30" height="14" rx="3" fill="#d2a8ff" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+<rect x="232" y="378" width="30" height="14" rx="3" fill="#c9d1d9" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+<rect x="266" y="378" width="30" height="14" rx="3" fill="#6e7681" style="opacity:0;animation:in .45s ease-out 1.61s forwards"/>
+</svg>
