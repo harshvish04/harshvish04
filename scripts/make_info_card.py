@@ -8,7 +8,7 @@ from xml.sax.saxutils import escape
 from config import USERNAME, HOST, INFO
 
 STATIC = os.environ.get("STATIC") == "1"
-W, H = 640, 490
+W, H = 640, 600
 BG, BAR, FG, DIM = "#0d1117", "#161b22", "#c9d1d9", "#8b949e"
 KEY, ACC, GREEN = "#58a6ff", "#d2a8ff", "#39d353"
 FONT = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
@@ -33,9 +33,10 @@ def main():
     out.append(f'<text x="28" y="{y}" fill="{GREEN}"{anim(i)}>{escape(HOST)}</text>'); i += 1; y += 22
     out.append(f'<text x="28" y="{y}" fill="{DIM}"{anim(i)}>{"─" * (len(HOST))}</text>'); i += 1; y += 38
     for k, v in INFO:
+        sep = ": " if k else "  "
         out.append(f'<text x="28" y="{y}"{anim(i)}><tspan fill="{KEY}" font-weight="bold">{escape(k)}</tspan>'
-                   f'<tspan fill="{DIM}">: </tspan><tspan fill="{FG}">{escape(v)}</tspan></text>')
-        i += 1; y += 36
+                   f'<tspan fill="{DIM}">{sep}</tspan><tspan fill="{FG}">{escape(v)}</tspan></text>')
+        i += 1; y += 30
     y += 6
     for row in range(2):                      # color swatches, like neofetch
         for n in range(8):
